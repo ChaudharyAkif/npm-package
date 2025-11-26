@@ -1,6 +1,6 @@
 {
   "name": "akif-validation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "Akif's Regex-based validation utilities",
   "main": "index.js",
