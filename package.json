@@ -1,9 +1,27 @@
 {
   "name": "akif-validation",
-  "version": "1.1.1",
-  "type": "module",
-  "description": "Akif's Regex-based validation utilities",
+  "version": "1.0.3",
+  "description": "A lightweight, fast, and regex-based validation library for email, phone number, and password validation in JavaScript, React, and Node.js.",
   "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "validation",
+    "validator",
+    "regex",
+    "email-validation",
+    "phone-validation",
+    "password-validation",
+    "form-validation",
+    "nodejs",
+    "javascript",
+    "frontend",
+    "backend",
+    "react",
+    "regex-validation",
+    "input-validation",
+    "data-validation",
+    "akif-validation"
+  ],
   "author": "Akif Hussain",
   "license": "MIT"
 }
