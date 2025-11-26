@@ -1,0 +1,11 @@
+{
+  "name": "akif-validation",
+  "version": "1.0.0",
+  "description": "Akif's Regex-based validation utilities for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Akif Hussain",
+  "license": "MIT"
+}
