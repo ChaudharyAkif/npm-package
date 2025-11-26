@@ -1,6 +1,6 @@
 {
   "name": "akif-validation",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "A lightweight, fast, and regex-based validation library for email, phone number, and password validation in JavaScript, React, and Node.js.",
   "main": "index.js",
   "type": "module",
