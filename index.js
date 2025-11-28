@@ -8,7 +8,7 @@ export function isEmail(email) {
 
 // Validate Phone Number (10 digits)
 export function isPhoneNumber(number) {
-  const regex = /^[0-9]{10}$/;
+   const regex = /^\+?[0-9]{7,15}$/;
   return regex.test(number);
 }
 
